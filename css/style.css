@@ -40,3 +40,14 @@ footer {
   font-size: 0.8rem;
   color: #aaa;
 }
+
+.post-title {
+  font-size: 1.5rem;
+  margin-bottom: 0.2rem;
+}
+
+.post-meta {
+  font-size: 0.85rem;
+  color: #bbb;
+  margin-bottom: 1.5rem;
+}
