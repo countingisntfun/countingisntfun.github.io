@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 2rem;
+  font-family: "Courier New", monospace;
+  background-color: #111;
+  color: #eee;
+}
+
+a {
+  color: #7fffd4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+header {
+  border-bottom: 1px solid #444;
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+}
+
+h1 {
+  font-size: 1.8rem;
+  margin: 0 0 0.5rem 0;
+}
+
+main {
+  max-width: 700px;
+  line-height: 1.6;
+}
+
+footer {
+  margin-top: 3rem;
+  font-size: 0.8rem;
+  color: #aaa;
+}
