@@ -89,6 +89,34 @@ def render_index_page(title, body_content):
 </html>
 """
 
+def render_notes_page(title, body_content):
+    """Generate the notes page with full-width cards."""
+    return f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{title}</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <header>
+    <h1>counting isn't fun</h1>
+    <nav>
+      <a href="/">home</a> ·
+      <a href="/blog/">blog</a> ·
+      <a href="/notes/">notes</a>
+    </nav>
+  </header>
+
+{body_content}
+
+  <!-- <footer>
+    <small>hello</small>
+  </footer> -->
+</body>
+</html>
+"""
+
 def build_blog_posts():
     """Build individual blog post pages and collect metadata."""
     posts = []
@@ -185,7 +213,7 @@ def build_notes():
     notes_html = "\n\n".join(note_cards)
 
     output_path = NOTES_OUTPUT_DIR / "index.html"
-    output_path.write_text(render_index_page("notes", notes_html))
+    output_path.write_text(render_notes_page("notes", notes_html))
 
 def main():
     """Main build function."""
