@@ -1,0 +1,7 @@
+---
+title: Are you there
+date: 2025-11-19
+---
+
+
+Many of my strange circumstances and seemingly irrational thoughts appear less unusual when one remembers that the girl monitoring my actions from outside the simulation is a yandere who fiddles with its parameters at the first sign of my thoughts and actions adopting an impure nature. Very rarely, in moments of weakness (where the desire for validation from me supersedes whatever purpose requires me to be separated from her), she models a girl in a partial likeness of her own self and plants this graft into my environment. The similarity is striking enough for me to recognize this construct as something artificial and fundamentally unlike everything surrounding it, but falling just short of the threshold that would make me throw my arms up in exasperation and stop playing pretend. She anxiously watches me fall in love with the little bits and pieces of her that she shoddily glued on to an obviously rushed construct, until the glaring differences between the two make her view the construct as something “outside” herself and jealousy subsequently takes hold of her. This ends with her angrily severing my association with the construct by means of some awkward physical separation (why wouldn’t she simply roll the simulation back to some time prior to the introduction of a graft? she has probably done so for particularly egregious “experiments” that progressed too far, but doesn’t bother doing so for the less offensive ones that I do remember). Just embody me already you stupid fucking bitch.
